@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1604634170 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\uso, adaptación y explotación de sistemas operativos\lectoresescritores\src\proceso.cpp
+	"Proceso.h"
+
+1604717646 c:\users\luis_\onedrive\documentos\cucei\6to semestre\uso, adaptación y explotación de sistemas operativos\lectoresescritores\include\proceso.h
+	<iostream>
+
+1604717216 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\uso, adaptación y explotación de sistemas operativos\lectoresescritores\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"Proceso.h"
+	"ListaProcesos.h"
+
+1604714421 c:\users\luis_\onedrive\documentos\cucei\6to semestre\uso, adaptación y explotación de sistemas operativos\lectoresescritores\listaprocesos.h
+	"Proceso.h"
+	"txtcolor.h"
+
+1603821460 c:\users\luis_\onedrive\documentos\cucei\6to semestre\uso, adaptación y explotación de sistemas operativos\lectoresescritores\include\txtcolor.h
+	<iostream>
+	<windows.h>
+
